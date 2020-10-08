@@ -1,13 +1,13 @@
 {
-  "name": "regex-easy",
-  "version": "1.0.0",
+  "name": "nootim-regex-easy",
+  "version": "1.0.4",
   "description": "regex methods easy to use ",
   "main": "index.js",
   "author": "nootim",
   "scripts": {
     "test": "mocha || true"
   },
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "@types/node": "^14.11.5",
     "chai": "^4.2.0",
